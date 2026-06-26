@@ -1,95 +1,50 @@
-# Business Insights
+# Dashboard Story
 
-## 1. Sales Trend
+# Executive Summary
 
-**Observation:** Quarterly sales remained relatively stable with moderate fluctuations and a noticeable recovery in 2025 Q3.
+This executive dashboard provides a comprehensive overview of sales performance, profitability, customer behaviour, operational efficiency, and return patterns for the retail business. It enables leadership to quickly identify growth opportunities, profitability drivers, and operational risks through a single interactive view.
 
-**Data Evidence:** The Sales Trend chart shows sales dipping around 2025 Q2 before rebounding to the highest level in 2025 Q3.
+# What Is Performing Well
 
-**Business Interpretation:** Demand appears resilient despite temporary slowdowns. Seasonal or promotional factors may have contributed to the recovery.
+Sales remain relatively stable over the observed period, with a strong recovery during the later quarters. Technology products contribute the highest overall profit, indicating a healthy product portfolio in that category. Several regions consistently deliver strong sales performance, providing a solid revenue base for the business.
 
-**Recommended Action:** Investigate the campaigns and operational factors that contributed to the Q3 improvement and replicate successful strategies in future quarters.
+# What Is Underperforming
 
----
+Certain Furniture and Office Supplies sub-categories generate comparatively lower profits. High discount levels are associated with several low-profit or loss-making orders, indicating that current discount policies may be reducing profitability. Standard shipping also requires longer delivery times than premium shipping options.
 
-## 2. Regional Performance
+# Risks Visible
 
-**Observation:** Sales performance differs across regions, with one region consistently outperforming the others.
+The dashboard highlights three key risks:
 
-**Data Evidence:** The Regional Performance chart ranks regions by total sales and profit.
+* High discount levels reducing profit margins.
+* Higher return rates in selected product categories and customer segments.
+* Longer delivery times that could negatively affect customer satisfaction and increase future returns.
 
-**Business Interpretation:** High-performing regions likely benefit from stronger customer demand, better market penetration, or more effective sales execution.
+These risks directly impact profitability and customer experience.
 
-**Recommended Action:** Study the best-performing region's sales strategy and identify opportunities to replicate it in lower-performing regions.
+# Opportunities Visible
 
----
+Several opportunities are evident from the dashboard:
 
-## 3. Category & Sub-Category Profitability
+* Expand investment in highly profitable Technology products.
+* Replicate successful sales practices from high-performing regions.
+* Optimise discount strategies to protect profit margins.
+* Improve logistics efficiency for slower shipping methods.
+* Reduce product returns through quality improvements and better product information.
 
-**Observation:** Technology contributes the highest overall profit, while some Furniture and Office Supplies sub-categories generate comparatively lower profits.
+# Recommended Business Actions
 
-**Data Evidence:** The Category Profitability chart shows Technology sub-categories dominating profit contribution.
+1. Introduce tighter controls for high-discount transactions.
+2. Increase focus on profitable product categories.
+3. Review underperforming product lines and pricing strategies.
+4. Improve delivery performance for slower shipping modes.
+5. Investigate categories with high return rates to identify root causes.
+6. Use dashboard filters regularly to monitor performance across regions, customer segments, and campaign channels.
 
-**Business Interpretation:** Product mix has a significant impact on profitability. High-revenue categories are not always equally profitable.
+# Limitations of the Dashboard
 
-**Recommended Action:** Increase investment in profitable Technology products while reviewing pricing, sourcing, or promotional strategies for weaker sub-categories.
+The dashboard presents historical transactional data and does not include external market conditions, inventory availability, competitor activity, customer satisfaction scores, or future demand forecasts. Relationships observed in the dashboard should be validated through deeper analysis before making strategic decisions.
 
----
+# Suggested Next Analysis
 
-## 4. Customer Segment Performance
-
-**Observation:** Customer segments generate relatively similar sales volumes, but profitability differs across segments.
-
-**Data Evidence:** The Customer Segment chart compares sales alongside profit-related metrics.
-
-**Business Interpretation:** Some customer segments deliver better margins despite similar revenue levels.
-
-**Recommended Action:** Prioritize marketing investments toward customer segments with stronger profitability and higher average order values.
-
----
-
-## 5. Discount Impact
-
-**Observation:** Orders with larger discounts are more likely to generate low or negative profits.
-
-**Data Evidence:** The Discount vs Profit scatter plot shows several loss-making orders associated with higher discount percentages.
-
-**Business Interpretation:** Aggressive discounting reduces profit margins and may create unprofitable transactions.
-
-**Recommended Action:** Review discount policies and establish approval thresholds for high-discount orders while monitoring their profitability.
-
----
-
-## 6. Shipping Performance
-
-**Observation:** Delivery performance varies across shipping modes, with Standard Class taking longer than premium shipping options.
-
-**Data Evidence:** The Shipping Performance chart compares average delivery days across shipping modes.
-
-**Business Interpretation:** Longer delivery times may negatively affect customer satisfaction and contribute to future return behaviour.
-
-**Recommended Action:** Evaluate logistics processes for slower shipping methods and identify opportunities to reduce delivery times.
-
----
-
-## 7. Return Pattern
-
-**Observation:** Return rates vary across product categories and customer segments.
-
-**Data Evidence:** The Return Analysis chart highlights differences in return rates by category and customer segment.
-
-**Business Interpretation:** Certain product categories may have quality issues, unmet customer expectations, or higher return risk.
-
-**Recommended Action:** Perform root-cause analysis for high-return categories by reviewing product quality, descriptions, packaging, and customer feedback.
-
----
-
-## 8. Business Risk & Opportunity
-
-**Observation:** Profitability is influenced by multiple factors including discounting, product mix, shipping performance, and returns.
-
-**Data Evidence:** Insights from the Discount vs Profit, Shipping Performance, Category Profitability, and Return Analysis charts collectively highlight operational and commercial trade-offs.
-
-**Business Interpretation:** Improving operational efficiency while maintaining disciplined pricing could significantly increase overall profitability.
-
-**Recommended Action:** Focus on reducing excessive discounts, improving delivery efficiency, expanding profitable product categories, and addressing high-return products to improve long-term business performance.
+Future analysis should include customer lifetime value, repeat purchase behaviour, campaign effectiveness, inventory turnover, product-level profitability, and predictive models to forecast sales and returns. Incorporating these analyses would provide a more complete decision-support system for leadership.
